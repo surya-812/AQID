@@ -1,4 +1,4 @@
-### Stress Level Detector
+### Air Quality Detector (AQID)
 ![home](https://github.com/MainakRepositor/AQID/assets/64016811/9c162379-72f5-4c95-83f2-d13537f0a883)
 
 
